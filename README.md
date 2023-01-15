@@ -12,6 +12,7 @@ IT기업 기술블로그 글 리뷰
 - SOCAR Techblog
 - Spoqa Techblog
 - MUSINSA Techblog
+- Bucketplace Techblog
 
 ## IT기업 기술블로그 글 리뷰를 하는 이유
 1. 최신 개발 동향을 빠르고 쉽게 접하기 위해서
